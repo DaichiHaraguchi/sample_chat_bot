@@ -1,3 +1,6 @@
-flask
+Flask
+pandas
 line-bot-sdk
-gunicorn
+langchain
+google-generativeai
+langchain-google-genai
