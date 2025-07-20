@@ -4,3 +4,4 @@ line-bot-sdk
 langchain
 google-generativeai
 langchain-google-genai
+gunicorn
